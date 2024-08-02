@@ -1,0 +1,708 @@
+{
+    "music.overworld.old_growth_spruce_taiga": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Disdrometer",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.snowy_taiga": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Out_of_Whose_Womb_Came_the_Ice",
+          "stream": true
+        }
+      ]
+    },
+    "music.end": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/con_lentitud_poderosa",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Through_a_Cloud_Darkly",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/A_Placid_Island_of_Ignorance",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Petrichor_V",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/A_Glacier_Eventually_Farts",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.deep_ocean": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.forest": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.taiga": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.windswept_savanna": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.lukewarm_ocean": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.old_growth_birch_forest": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Disdrometer",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.jagged_peaks": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Out_of_Whose_Womb_Came_the_Ice",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.snowy_slopes": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Out_of_Whose_Womb_Came_the_Ice",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.desert": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Terra_Pluviam",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Once_in_a_Lullaby",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.deep_dark": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Parjanya",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Into_the_Doldrums",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.deep_cold_ocean": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.frozen_peaks": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Out_of_Whose_Womb_Came_the_Ice",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.beach": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.end.end_barrens": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.misc.flying": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.overworld.frozen_river": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.credits": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Lacrimosum",
+          "stream": true
+        },
+        {
+          "name": "minecraft:music/game/end/credits",
+          "stream": true
+        }
+      ]
+    },
+    "music.nether.warped_forest": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.overworld.badlands": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Once_in_a_Lullaby",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.sparse_jungle": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Disdrometer",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.stony_shore": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.ice_spikes": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Out_of_Whose_Womb_Came_the_Ice",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.windswept_forest": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.swamp": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/They_Might_As_Well_Be_Dead",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.eroded_badlands": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Once_in_a_Lullaby",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Into_the_Doldrums",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.cherry_grove": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.overworld.sunflower_plains": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Disdrometer",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        }
+      ]
+    },
+    "music.nether.nether_wastes": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.overworld.dark_forest": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Disdrometer",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.old_growth_pine_taiga": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Disdrometer",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        }
+      ]
+    },
+    "music.end.end_highlands": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.overworld.deep_frozen_ocean": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.mangrove_swamp": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Nocturnal_Emission",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/They_Might_As_Well_Be_Dead",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.warm_ocean": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.nether": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Terra_Pluviam",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Who_Can_Fathom_the_Soundless_Depths",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.windswept_hills": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.savanna": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.dripstone_caves": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Into_the_Doldrums",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.ocean": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.lush_caves": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Parjanya",
+          "stream": true
+        }
+      ]
+    },
+    "music.misc.rain": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.misc.thunder": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.overworld.mushroom_fields": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Who_Can_Fathom_the_Soundless_Depths",
+          "stream": true
+        }
+      ]
+    },
+    "music.misc.night": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.end.the_end": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/con_lentitud_poderosa",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Through_a_Cloud_Darkly",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/A_Placid_Island_of_Ignorance",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Petrichor_V",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/A_Glacier_Eventually_Farts",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/The_Rain_Formerly_Known_as_Purple",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.flower_forest": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.savanna_plateau": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Disdrometer",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.wooded_badlands": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Once_in_a_Lullaby",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.frozen_ocean": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.cold_ocean": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.meadow": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "minecraft:music/game/hal2",
+          "stream": true
+        },
+        {
+          "name": "minecraft:music/game/hal4",
+          "stream": true
+        },
+        {
+          "name": "minecraft:music/game/hal3",
+          "stream": true
+        },
+        {
+          "name": "minecraft:music/game/hal1",
+          "stream": true
+        },
+        {
+          "name": "minecraft:music/game/left_to_bloom",
+          "stream": true
+        },
+        {
+          "name": "minecraft:music/game/one_more_day",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.windswept_gravelly_hills": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        }
+      ]
+    },
+    "music.menu": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/The_Dehydration_of_Risk_of_Rain_2",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Risk_of_Rain_2",
+          "stream": true
+        }
+      ]
+    },
+    "music.end.end_midlands": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.under_water": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.overworld.birch_forest": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.end.small_end_islands": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.overworld.stony_peaks": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    },
+    "music.overworld.snowy_plains": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Out_of_Whose_Womb_Came_the_Ice",
+          "stream": true
+        }
+      ]
+    },
+    "music.dragon": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Youre_Gonna_Need_a_Bigger_Ukulele",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/The_Face_of_the_Deep",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.plains": {
+      "category": "music",
+      "replace": true,
+      "sounds": [
+        {
+          "name": "more_musics:music/Disdrometer",
+          "stream": true
+        },
+        {
+          "name": "more_musics:music/Evapotranspiration",
+          "stream": true
+        }
+      ]
+    },
+    "music.overworld.snowy_beach": {
+      "category": "music",
+      "replace": true,
+      "sounds": []
+    }
+  }

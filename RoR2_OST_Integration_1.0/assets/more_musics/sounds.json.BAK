@@ -1,0 +1,226 @@
+{
+  "A_Placid_Island_of_Ignorance": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/A_Placid_Island_of_Ignorance",
+        "stream": true
+      }
+    ]
+  },
+  "Once_in_a_Lullaby": {
+      "category" : "music",
+      "sounds": [{
+          "name": "more_musics:music/Once_in_a_Lullaby",
+          "stream": true
+        }
+      ]
+  },
+  "Out_of_Whose_Womb_Came_the_Ice": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Out_of_Whose_Womb_Came_the_Ice",
+        "stream": true
+      }
+    ]
+  },
+  "They_Might_As_Well_Be_Dead": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/They_Might_As_Well_Be_Dead",
+        "stream": true
+      }
+    ]
+  },
+  "Who_Can_Fathom_the_Soundless_Depths": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Who_Can_Fathom_the_Soundless_Depths",
+        "stream": true
+      }
+    ]
+  },
+  "con_lentitud_poderosa": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/con_lentitud_poderosa",
+        "stream": true
+      }
+    ]
+  },
+  "A_Glacier_Eventually_Farts": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/A_Glacier_Eventually_Farts",
+        "stream": true
+      }
+    ]
+  },
+  "Antarctic_Oscillation": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Antarctic_Oscillation",
+        "stream": true
+      }
+    ]
+  },
+  "Disdrometer": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Disdrometer",
+        "stream": true
+      }
+    ]
+  },
+  "Evapotranspiration": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Evapotranspiration",
+        "stream": true
+      }
+    ]
+  },
+  "Hydrophobia": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Hydrophobia",
+        "stream": true
+      }
+    ]
+  },
+  "Into_the_Doldrums": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Into_the_Doldrums",
+        "stream": true
+      }
+    ]
+  },
+  "Koppen_As_Fuck": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Koppen_As_Fuck",
+        "stream": true
+      }
+    ]
+  },
+  "Lacrimosum": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Lacrimosum",
+        "stream": true
+      }
+    ]
+  },
+  "Nocturnal_Emission": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Nocturnal_Emission",
+        "stream": true
+      }
+    ]
+  },
+  "Parjanya": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Parjanya",
+        "stream": true
+      }
+    ]
+  },
+  "Petrichor_V": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Petrichor_V",
+        "stream": true
+      }
+    ]
+  },
+  "Risk_of_Rain_2": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Risk_of_Rain_2",
+        "stream": true
+      }
+    ]
+  },
+  "Terra_Pluviam": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Terra_Pluviam",
+        "stream": true
+      }
+    ]
+  },
+  "The_Dehydration_of_Risk_of_Rain_2": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/The_Dehydration_of_Risk_of_Rain_2",
+        "stream": true
+      }
+    ]
+  },
+  "The_Rain_Formerly_Known_as_Purple": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/The_Rain_Formerly_Known_as_Purple",
+        "stream": true
+      }
+    ]
+  },
+  "The_Raindrop_that_Fell_to_the_Sky": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/The_Raindrop_that_Fell_to_the_Sky",
+        "stream": true
+      }
+    ]
+  },
+  "Thermodynamic_Equilibrium": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Thermodynamic_Equilibrium",
+        "stream": true
+      }
+    ]
+  },
+  "Through_a_Cloud_Darkly": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Through_a_Cloud_Darkly",
+        "stream": true
+      }
+    ]
+  },
+  "Youre_Gonna_Need_a_Bigger_Ukulele": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Youre_Gonna_Need_a_Bigger_Ukulele",
+        "stream": true
+      }
+    ]
+  },
+  "Having_Fallen_It_Was_Blood": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/Having_Fallen_It_Was_Blood",
+        "stream": true
+      }
+    ]
+  },
+  "A_Boat_Made_from_a_Sheet_of_Newspaper": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/A_Boat_Made_from_a_Sheet_of_Newspaper",
+        "stream": true
+      }
+    ]
+  },
+  "The_Face_of_the_Deep": {
+    "category" : "music",
+    "sounds": [{
+        "name": "more_musics:music/The_Face_of_the_Deep",
+        "stream": true
+      }
+    ]
+  }
+}
